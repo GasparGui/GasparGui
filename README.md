@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Olhier Gaspar</h1>
-<h3 align="center">DevOps & Cloud Engineer | Apaixonado por automação, infraestrutura como código e integração contínua</h3>
+<h3 align="center">DevOps & Cloud Engineer | Apaixonado por automação, cloud e segurança da informação</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38BDAA&center=true&vCenter=true&width=500&lines=Transformando+infra+em+c%C3%B3digo;Automatizando+com+pipelines+eficientes;Seguran%C3%A7a,+Escalabilidade+e+Efici%C3%AAncia" alt="Typing SVG" />
