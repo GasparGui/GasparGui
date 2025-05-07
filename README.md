@@ -1,22 +1,22 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Olhier Gaspar</h1>
-<h3 align="center">DevOps & Cloud Engineer | Apaixonado por automação, cloud e segurança da informação</h3>
+<h1 align="center">👋 Hello, I'm Guilherme Olhier Gaspar</h1>
+<h3 align="center">DevOps & Cloud Engineer | Passionate about automation, cloud, and information security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38BDAA&center=true&vCenter=true&width=500&lines=Transformando+infra+em+c%C3%B3digo;Automatizando+com+pipelines+eficientes;Seguran%C3%A7a,+Escalabilidade+e+Efici%C3%AAncia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38BDAA&center=true&vCenter=true&width=500&lines=Turning+infra+into+code;Automating+with+efficient+pipelines;Security,+Scalability,+and+Efficiency" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Featured Project
 
 ### 🧊 [Code Freezing](https://github.com/GasparGui/code-freezing)
 
-> Ferramenta para gerenciar períodos de *code freeze* em repositórios Git. Ideal para times DevOps que buscam estabilidade e controle durante fases críticas como homologações e deploys.  
-> Utiliza arquivos YAML para definir janelas de congelamento, podendo ser integrado facilmente a pipelines CI/CD.
+> Tool to manage *code freeze* periods in Git repositories. Ideal for DevOps teams seeking stability and control during critical phases like staging and deployments.  
+> Uses YAML files to define freeze windows, and can be easily integrated into CI/CD pipelines.
 
 ---
 
-## 🛠️ Stack DevOps
+## 🛠️ DevOps Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -43,15 +43,17 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 <p align="center">
+  <a href="mailto:golhiergaspar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/guilherme-olhier-gaspar/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
 ---
 
-<p align="center">🚧 <i>Perfil em constante evolução. Em construção como toda boa infraestrutura!</i> 🚧</p>
+<p align="center">🚧 <i>This profile is a work in progress — just like any great infrastructure!</i> 🚧</p>
