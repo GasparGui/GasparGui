@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Guilherme Olhier Gaspar</h1>
-<h3 align="center">DevOps & Cloud Engineer | Passionate about automation, cloud, and information security</h3>
+<h3 align="center">Cybersecurity Engineer | Passionate about pentests, cloud, and information security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38BDAA&center=true&vCenter=true&width=500&lines=Turning+infra+into+code;Automating+with+efficient+pipelines;Security,+Scalability,+and+Efficiency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=38BDAA&center=true&vCenter=true&width=500&lines=Cybersecurity;Incident+Response;Threat+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
